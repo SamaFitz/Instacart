@@ -5,3 +5,12 @@ Instacart is an online grocery store that operates through an app. Though Instac
 ## Data
 Instacart open-source data was used as well as a separate customer data set created for the purpose of this project.
 [“The Instacart Online Grocery Shopping Dataset 2017”](https://s3.amazonaws.com/coach-courses-us/public/courses/data-immersion/A4/A4_Data_Assets/4.3_orders_products.zip)
+## Tools
+Python and Excel were used for this project. 
+
+The following libraries were used for Python:
+- Panda
+- Numpy
+- Seaborn
+- Matplotlib
+- Scipy
